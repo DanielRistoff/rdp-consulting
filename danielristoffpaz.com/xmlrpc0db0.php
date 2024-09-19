@@ -2,7 +2,7 @@
 	<service>
 		<homePageLink>https://danielristoffpaz</homePageLink>
 		<apis>
-			<api name="WP-API" blogID="1" preferred="false" apiLink="http://127.0.0.1:5500/danielristoffpaz.com/drp-json/" />
+			<api name="WP-API" blogID="1" preferred="false" apiLink="https://danielristoff.github.io/rdp-consulting/danielristoffpaz.com/drp-json/" />
 		</apis>
 	</service>
 </rsd>
